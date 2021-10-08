@@ -51,7 +51,226 @@ section{
     align-items: center;
     font-family: 'Poppins', sans-serif;
     font-size: 23px;
+    color: white;
 }
 .waving-hand{
     margin-right: 24.7px;
 }
+/* .main-block{
+    width: 100%;
+    height: 1444px;
+    background-color: gold;
+} */
+.text-block{
+    margin: 0 auto;
+}
+.section{
+    width: 100%;
+    height: 1444px;
+    /* background-color: gold; */
+}
+.text-block{
+    margin: 0 auto;
+    width: 770px;
+    text-align: center;
+}
+.title1{
+    font-size: 20px;
+    color: #3D37F1;
+    font-family: 'Lato', sans-serif;
+}
+.title2{
+    margin-top: 17px;
+    font-size: 40px;
+    color: #5A5454;
+    font-family: 'Lato', sans-serif;
+}
+.text1{
+    margin-top: 21px;
+    font-size: 18px;
+    color: #747474;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 67px;
+    line-height: 30px;
+
+}
+.line{
+    width: 1170px;
+    height: 965px;
+    /* background-color: teal; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+}
+.box:first-child{
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:nth-child(2){
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3;
+    margin-left: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:nth-child(3){
+    width: 370px;
+    height: 451px;
+    background-color: #69529F;
+    margin-left: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:nth-child(4){
+    width: 370px;
+    height: 451px;
+    margin-top: 60px;
+    background-color: #4386D2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:nth-child(5){
+    width: 370px;
+    height: 451px;
+    margin-top: 60px;
+    background-color: #A5A2F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:last-child{
+    width: 370px;
+    height: 451px;
+    margin-top: 60px;
+    background-color: #FF8088;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.readmore{
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    border: 3px solid white;
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 11px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.readmore:hover{
+    background-color: white;
+    color: black;
+    transition: 2s;
+}
+.data{
+    margin-bottom: 57px;
+}
+.paint{
+    margin-bottom: 51px;
+}
+.phone{
+    margin-bottom: 41.6px;
+}
+.app{
+    margin-bottom: 66px;
+}
+.domain{
+    margin-bottom: 62.5px;
+}
+.repair{
+    margin-bottom: 67px;
+}
+.box-title{
+    margin-bottom: 13.1px;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+
+}
+.box-text{
+    width: 328px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    line-height: 23px;
+}
+
+/* .box:nth-child(2){
+    margin-left: 29px;
+}
+.box:nth-child(3){
+    margin-left: 29px;
+}
+.line2{
+    margin: 0 auto;
+    width: 1120px;
+    height: 541px;
+    display: flex;
+    background-color: turquoise;
+    margin-top: 60px;
+}
+.box1{
+    width: 370px;
+    height: 451px;
+    background-color: violet;
+    align-items: center;
+} */
+/* .line2{
+    width: 1120px;
+    height: 451px;
+    background-color: teal;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+} */
+/* .box1{
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3
+}
+.box2
+    width: 370px;
+    height: 451px;
+    background-color: tomato;
+}
+.box3{
+    width: 370px;
+    height: 451px;
+    background-color: tomato;
+}
+.box4{
+    width: 370px;
+    height: 451px;
+    background-color: tomato;
+}
+.box5{
+    width: 370px;
+    height: 451px;
+    background-color: tomato;
+} */
